@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "抜刀",
+  "base_artist": "羽生まゐご",
+  "createdAt": "2026-03-04T01:38:58.841391Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "抜刀",
+      "artist": "羽生まゐご",
+      "has_synced": false,
+      "path": "select/pl_01_抜刀_羽生まゐご.txt"
+    }
+  ]
+}
